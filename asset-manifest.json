@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newsopolisv1/static/css/main.31d6cfe0.css",
+    "main.js": "/newsopolisv1/static/js/main.1f6e3d42.js",
+    "static/js/787.87d5f70b.chunk.js": "/newsopolisv1/static/js/787.87d5f70b.chunk.js",
+    "index.html": "/newsopolisv1/index.html",
+    "main.1f6e3d42.js.map": "/newsopolisv1/static/js/main.1f6e3d42.js.map",
+    "787.87d5f70b.chunk.js.map": "/newsopolisv1/static/js/787.87d5f70b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1f6e3d42.js"
+  ]
+}
